@@ -64,8 +64,31 @@ public class Calculator implements ActionListener{
         delButton.setBounds(50,430,140,50);
         clrButton.setBounds(205,430,140,50);
 
-        frame.add(delButton);
-        frame.add(clrButton);
+        panel = new JPanel();
+        panel.setBounds(50, 100, 300, 300);
+        panel.setLayout(new GridLayout(4,4, 10, 10));
+
+        //Adding buttons to the panel
+        panel.add(numberButtons[1]);
+        panel.add(numberButtons[2]);
+        panel.add(numberButtons[3]);
+        panel.add(addButton);
+        panel.add(numberButtons[4]);
+        panel.add(numberButtons[5]);
+        panel.add(numberButtons[6]);
+        panel.add(subButton);
+        panel.add(numberButtons[7]);
+        panel.add(numberButtons[8]);
+        panel.add(numberButtons[9]);
+        panel.add(mulButton);
+        panel.add(decButton);
+        panel.add(numberButtons[0]);
+        panel.add(equButton);
+        panel.add(divButton);
+
+        frame.add(panel); //adding panel to frame
+        frame.add(delButton); //adding delete button to frame
+        frame.add(clrButton); //adding clear button to frame
         frame.add(textfield); //adding textfield to the frame
         frame.setVisible(true); //visible
     }
@@ -73,8 +96,8 @@ public class Calculator implements ActionListener{
         Calculator calc = new Calculator(); //creating an instance
     }
 
+    //adding functionality to the initalized buttons
     @Override
     public void actionPerformed(ActionEvent e) {
-
     }
 }

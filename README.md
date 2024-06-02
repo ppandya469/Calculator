@@ -1,12 +1,23 @@
 # Calculator
-  <a href="https://github.com/github_username/repo_name"><img width="418" alt="Screenshot 2024-05-31 at 4 25 14 PM" src="https://github.com/ppandya469/Calculator/assets/141596211/177c40b3-589a-4ec4-90f0-0063182e0d8f">
-  </a>
+<img align="left" width="200" src="https://github.com/ppandya469/Calculator/assets/141596211/6a3b3310-7a4e-46d9-aefa-b9903d37b2af" />
 
-Implements a 2D array data structure to house a tile-based, interactive world exploration engine. Uses text-based tiles along with pseudo-randomized walls, hallways, and rooms to trap and kill players. Players must enter the trap rooms and collect all visible coins within 10 seconds to win the game. Also includes additional features like charater swap, HUD tile hovering, pause, reload, and quit avaiable in the main menu and throughout the game. 
+This project is an interactive calculator developed in Java, designed to perform a variety of arithmetic operations with a user-friendly interface. The calculator supports basic functions such as addition, subtraction, multiplication, and division.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 **Demo:**
 
-https://github.com/ppandya469/World-Generation/assets/141596211/a97be9b2-bb8b-4dc6-86a2-6b700d1f84c5
+https://github.com/ppandya469/Calculator/assets/141596211/1470b9b0-bc1f-4163-bc19-70a7e3f62408
+
 
 ## How It's Made:
 

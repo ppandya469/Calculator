@@ -1,12 +1,12 @@
 # Calculator
 <img align="left" width="200" src="https://github.com/ppandya469/Calculator/assets/141596211/6a3b3310-7a4e-46d9-aefa-b9903d37b2af" />
 
-This project is an interactive calculator developed in Java, designed to perform a variety of arithmetic operations with a user-friendly interface. The calculator supports basic functions such as addition, subtraction, multiplication, and division.
 <br>
 <br>
 <br>
 <br>
 <br>
+<center> This project is an interactive calculator developed in Java, designed to perform a variety of arithmetic operations with a user-friendly interface. The calculator supports basic operations such as addition, subtraction, multiplication, and division of float numbers. </center>
 <br>
 <br>
 <br>

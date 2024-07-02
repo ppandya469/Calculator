@@ -3,7 +3,10 @@
 
 <p align="left"> This project is an interactive calculator developed in Java, designed to perform a variety of arithmetic operations with a user-friendly interface. The calculator supports basic operations such as addition, subtraction, multiplication, and division of float numbers. </p>
 
-
+<br>
+<br>
+<br>
+<br>
 **Demo:**
 
 https://github.com/ppandya469/Calculator/assets/141596211/1470b9b0-bc1f-4163-bc19-70a7e3f62408

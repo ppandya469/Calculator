@@ -25,8 +25,7 @@ A user-friendly calculator built using Java, Swing, and the Abstract Window Tool
    The `main` method instantiates the `Calculator` class, ensuring a new instance is created each time the program runs, providing a fresh, reset interface for users.
 
 **Screenshot**  
-![Calculator GUI Screenshot](./screenshot.png)  
-*(Replace with an actual screenshot file path or URL when available.)*
+![Calculator GUI Screenshot](./screenshot.png)
 
 **Demo:**  
 [Watch the Demo](https://github.com/ppandya469/Calculator/assets/141596211/1470b9b0-bc1f-4163-bc19-70a7e3f62408)

@@ -2,9 +2,7 @@
 
 ## Description
 
-A user-friendly calculator built using Java, Swing, and the Abstract Window Toolkit (AWT).  
-This project demonstrates fundamental programming concepts, including GUI development, event handling, and object-oriented programming.  
-With an intuitive pop-up window, users can perform basic arithmetic operations seamlessly.
+A user-friendly calculator built using Java, Swing, and the Abstract Window Toolkit (AWT). This project demonstrates fundamental programming concepts, including GUI development, event handling, and object-oriented programming. With an intuitive pop-up window, users can perform basic arithmetic operations seamlessly.
 
 ---
 
